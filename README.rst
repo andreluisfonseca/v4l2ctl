@@ -9,7 +9,7 @@ The `v4l2ctl` module based pyv4l2  development of pupil-labs:
 * Enumerate all capture devices with list_devices()
 
 I removed the  some partes  of the code: I removed  [libjpegturbo] (http://libjpeg-turbo.virtualgl.org/)  libary,
-the most original data is same. v4l2ctl module in `https://github.com/pupil-labs/pyv4l2`, Thank you to share the code
+the most original data is same. The pyv4l2 module is in `https://github.com/pupil-labs/pyv4l2`, Thank you to share the code
 pupil-labs.
 
 ============
