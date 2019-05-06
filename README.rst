@@ -42,7 +42,7 @@ Arch Linux
     # pacman -S v4l-utils
 
 ++++++
-pyv4l2
+v4l2ctl
 ++++++
 
 v4l2ctl is only compatible with Python 3.
